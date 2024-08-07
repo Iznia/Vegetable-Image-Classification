@@ -1,0 +1,5 @@
+URL
+
+Dataset full: https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
+Dataset sample : https://drive.google.com/drive/folders/1aNwOOA43oPLY5KDMgtKHnfU8uqov0slG?usp=sharing
+Deployment: Ketika di push huggingfacenya masih "Building"
